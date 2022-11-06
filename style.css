@@ -1,0 +1,39 @@
+body{
+    MARGIN: 24px 48px 24px 48px;
+    display: flex;
+    flex-direction: column;
+}
+
+.top{ 
+    background-color: #1F2937; 
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 52px;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 400px;
+    height: 100px;
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 12px
+}
