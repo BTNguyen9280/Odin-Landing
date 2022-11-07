@@ -63,6 +63,7 @@ ul {
     color: #EFE7EB;
     font-size: 12px;
     font-weight: bold;
+    border-radius: 25px;
     height: 36px;
     width: 82px;
     display: flex;
@@ -117,4 +118,36 @@ ul {
     display: flex;
     justify-content: flex-end;
     font-weight: bolder;
+}
+
+.CTA{
+    margin: 80px;
+    padding: 65px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign2{
+    background-color: #3882f6;
+    color: #EFE7EB;
+    border-color: #e5e7eb;
+    border-radius: 25px;
+    font-size: 12px;
+    font-weight: bold;
+    height: 36px;
+    width: 82px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.call{
+    font-size: 24px;
+    font-weight: bold;
+    color: #e5e7eb;
+}
+.call2{
+    font-size: 12px;
+    color: #e5e7eb;
 }
